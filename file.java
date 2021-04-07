@@ -1,4 +1,4 @@
 iam srikanth
 pizaa
 banana
-amma
+main
